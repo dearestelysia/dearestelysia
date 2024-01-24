@@ -1,1 +1,1 @@
-<img src="luna.png" alt="lunita" width="600">
+<img src="hua.gif" alt="nawt luna" width="300">
